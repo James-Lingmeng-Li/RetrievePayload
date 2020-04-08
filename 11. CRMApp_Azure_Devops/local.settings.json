@@ -1,0 +1,8 @@
+﻿{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=retrievepayload;AccountKey=VJXSL7dKRmmbh1HHt1O16YnEG3qJ1HoLud7BwFBnaBmVhIrsLsbdrQ1iP26szghrk8IlYiQL+mf3PYMOzo9mLA==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
